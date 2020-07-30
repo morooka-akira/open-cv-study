@@ -8,5 +8,5 @@ docker-compose up -d
 
 拡張
 ---
-upyterlab_vim
 
+[upyterlab_vim](https://github.com/axelfahy/jupyterlab-vim)
